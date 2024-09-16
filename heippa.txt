@@ -1,5 +1,6 @@
-viikonloppu takana taas
+Viikonloppu takana taas
 viikonloppu heippa vaan
 uusi viikko lähtee rullaamaan
 lisätty uusi rivi netissä
-lisätty toinen rivi netissä
+koneella lisätty rivi
+
